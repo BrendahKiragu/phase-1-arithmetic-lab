@@ -3,7 +3,6 @@ const num2 =62;
 const multiply = num1 * num2;
 multiply;
 
-//const random = Math.ceil(Math.random()*100); 
 const random = Math.floor(Math.random()*15)+1;
 random;
 console.log(random)
